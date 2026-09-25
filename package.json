@@ -1,0 +1,9 @@
+{
+  "name": "how-to-compare-vestiaire-collective-prices-in-nodejs",
+  "version": "1.0.0",
+  "description": "Compare Vestiaire listing prices and buyer fees with the FalconScrape Actor and Node.js",
+  "type": "module",
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": { "apify-client": "^2.12.0", "dotenv": "^16.4.5" },
+  "license": "MIT"
+}

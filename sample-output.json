@@ -1,0 +1,40 @@
+[
+  {
+    "id": 71491898,
+    "url": "https://www.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-neverfull-louis-vuitton-handbag-71491898.shtml",
+    "name": "Neverfull leather tote",
+    "brand": "Louis Vuitton",
+    "model": "Neverfull",
+    "priceAmount": 2594,
+    "priceCurrency": "USD",
+    "sold": false,
+    "inStock": false,
+    "condition": { "id": "9", "type": "condition", "description": "Never worn" },
+    "pricingBreakdown": {
+      "sellerPrice": { "currency": "USD", "cents": 229500, "formatted": "$2,295" },
+      "fullPrice": { "currency": "USD", "cents": 259400, "formatted": "$2,594" },
+      "buyerFees": { "amount": { "currency": "USD", "cents": 29900, "formatted": "$299" } }
+    },
+    "buyerFees": [{ "rateType": "FLAT", "cost": { "currency": "USD", "cents": 1500, "formatted": "$15" } }],
+    "dutyAndTax": { "currency": "USD", "cents": 0, "formatted": "$0" }
+  },
+  {
+    "id": 71145649,
+    "url": "https://www.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-neverfull-louis-vuitton-handbag-71145649.shtml",
+    "name": "Neverfull leather bag",
+    "brand": "Louis Vuitton",
+    "model": "Neverfull",
+    "priceAmount": 855,
+    "priceCurrency": "USD",
+    "sold": false,
+    "inStock": false,
+    "condition": { "id": "3", "type": "condition", "description": "Very good condition" },
+    "pricingBreakdown": {
+      "sellerPrice": { "currency": "USD", "cents": 75600, "formatted": "$756" },
+      "fullPrice": { "currency": "USD", "cents": 85500, "formatted": "$855" },
+      "buyerFees": { "amount": { "currency": "USD", "cents": 9900, "formatted": "$99" } }
+    },
+    "buyerFees": [{ "rateType": "FLAT", "cost": { "currency": "USD", "cents": 1500, "formatted": "$15" } }],
+    "dutyAndTax": { "currency": "USD", "cents": 0, "formatted": "$0" }
+  }
+]
