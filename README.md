@@ -1,6 +1,12 @@
 # How to Compare Vestiaire Collective Prices in Node.js
 
+![Vestiaire Collective price and buyer-fee comparison illustration](./images/vestiaire_blog.png)
+
 This example calls our [Vestiaire Collective Listings Scraper](https://apify.com/piotrv1001/vestiaire-collective-listings-scraper) on Apify. It does not implement a scraper from scratch.
+
+![Vestiaire Collective listings in an Apify dataset](./images/vestiaire_results.png)
+
+The screenshot shows a separate, larger search. It displays listing-level fields; fetch details and open a row to inspect fee breakdowns.
 
 ## What this example does
 
